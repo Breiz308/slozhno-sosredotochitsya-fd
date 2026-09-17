@@ -10,7 +10,6 @@
   --decorated-zone-color: #ff0070;
 }
 
-/* Скрываем REC в светлой теме, показываем в тёмной */
 :root.theme-dark .header__rec {
   display: flex;
 }
